@@ -2,4 +2,4 @@
 
 ## Table of Content
 
-1. [AWS Practitioner](docs/CLF-C02.md)
+1. [AWS Practitioner](docs/CLF-C02/README.md)
