@@ -148,7 +148,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | Launch | Deliver initiatives with value |
 | Scale | Expand sustainable initiatives |
 
-![Cloud Transformation Journey](img/cloud-transformation-journey.png)
+![Cloud Transformation Journey](../img/clf-c02-cloud-transformation-journey.png)
 
 ## Well-Architected Framework
 
