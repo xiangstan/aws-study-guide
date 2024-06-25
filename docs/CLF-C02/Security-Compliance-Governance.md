@@ -283,6 +283,8 @@ Use **Service Control Policies** to prevent actions across the entire organizati
 
 Plays well with **Security Hub**, receives findings across many accounts.
 
+Organization Service Control Policies (SCPs) allow you to create permissions guardrails that apply to all accounts within a give organization.
+
 #### AWS Control Tower
 
 **AWS Control Tower** automates account creation and the application of best-practice **Config** rules and **SCPs**.
