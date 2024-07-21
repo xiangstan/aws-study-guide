@@ -154,6 +154,8 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 
 AWS Well-Architected helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. Built around six pillars.
 
+It includes ***six key pillars***: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, Sustainability.
+
 ### Operational Excellence
 
 1. Plan for and anticipate failure.
