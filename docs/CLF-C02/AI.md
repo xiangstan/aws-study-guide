@@ -274,3 +274,7 @@ It analyze some images/videos to identify text, objects and people.
 1. Content moderation: to identify harmful or offensive images.
 1. Identify verification.
 1. Identify objects and text in images.
+
+---
+
+[[Back to Table of Content](README.md)]

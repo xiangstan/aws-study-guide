@@ -124,21 +124,40 @@ It is available to anyone.
 
 ## Support Plans
 
-There are 4 support plans.
+There are 5 support plans.
 
-### Basic Support Plan
+1. Basic: $0
+1. Developer: $29/month
+1. Business: $100/month
+1. Enterprise On-Ramp: $5500/month
+1. Enterprise: $15000/month
+
+All support plans contains account and billing support through customer support.
+
+## Basic Support Plan
 
 Include for free for all AWS accounts.
 
-1. Account and billing.
-1. Service limit increases.
-1. 24/7 access via email only.
+1. Trusted Advisor free checks
+1. AWS Health dashboard
+1. Access to customer service and documentation
 
-### Developer Support Plan
+Support plan with:
+
+1. Service limit increases.
+1. 24/7 access via email only. Cannot open tickets.
+
+## Developer Support Plan
 
 Support starts at $29 a month and it is recommended for testing and development.
 
-1. Account and billing.
+1. Trusted Advisor free checks
+1. AWS Health dashboard
+1. Access to customer service and documentation
+1. Receive general guidance within 12-24 hours depending on severity.
+
+Support plan with:
+
 1. Service limit increases.
 1. Technical support.
 1. 1 Primary Contact.
@@ -146,34 +165,71 @@ Support starts at $29 a month and it is recommended for testing and development.
 1. Cloud Support Associate: Business-hours access via email only.
 1. Response Times: <24 hours general guidance. <12 hours system impaired.
 
-### Business Support Plan
+## Business Support Plan
 
 Support start at $100 a month and it is recommended for production workloads.
 
-1. Account and billing.
-1. Service limit increases.
-1. Technical support.
-1. Unlimited contacts, unlimited cases, full set of **Trusted Advisor** checks.
-1. Cloud Support Associate: 24/7 access via email only, phone, or chat.
-1. Response Times: <24 hours general guidance. <12 hours system impaired, <4 hours production system impaired, <1 hour production system down.
+First tier to have 24/7 access to the phone, web or chat support team.
 
-### Enterprise Support Plan
+#### <u>*Business Support Plan is the lowest cost to achieve phone and chat support and the full set of Trusted advisor checks.*</u>
+
+1. Full set of Trusted Advisor checks
+1. AWS Health dashboard
+1. Access to customer service and documentation
+1. Receive contextual guidance with 1-24 hours depending on severity
+1. 24/7 access to phone, web, or chat support team
+
+Support plan with:
+
+1. Service limit increases
+1. Technical support
+1. Unlimited contacts, unlimited cases
+1. Cloud Support Associate: 24/7 access via email only, phone, or chat
+1. Response Times: <24 hours general guidance. <12 hours system impaired, <4 hours production system impaired, <1 hour production system down
+
+## Enterprise On-Ramp Support Plan
+
+First time AWS Support will help you with billing issues. Otherwise you'll be going through customer support.
+
+1. Receive contextual guidance within 30 minutes to 24 hours depending on severity
+1. 24/7 access to phone, web, or chat support team
+1. Limited consultative review and guidance
+1. Proactive guidance from a pool of Technical Account Managers
+1. Concierge access to billing issues
+
+## Enterprise Support Plan
 
 Support starts at $15,000 a month and it is recommended for business or mission-critical production workloads.
 
-1. Account and billing.
+1. Receive contextual guidance within 30 minutes to 24 hours depending on severity
+1. 24/7 access to phone, web, or chat support team
+1. Unlimited consultative review and guidance
+1. Proactive guidance from a designated Technical Account Manager
+1. Concierge support in managing billing
+
+Support plan with:
+
 1. Service limit increases.
 1. Technical support.
 1. Unlimited contacts, unlimited cases, full set of **Trusted Advisor** checks, **Technical Account Manager** (TAM), **Concierge Support Teams**, **Infrastructure Event Management**.
 1. Cloud Support Associate: 24/7 access via email only, phone, or chat.
 1. Response Times: <24 hours general guidance. <12 hours system impaired, <4 hours production system impaired, <1 hour production system down, <15 minutes business-critical system down.
 
-### Support Case Types
+## Support Case Types
 1. Account and billing: Account-related and billing cases can be opened by all customers (free).
 1. Service limit increases: Default service quota (or limit) increases can be opened by all customers. Essential the guardrail that AWS places on your account so that you don't end up with a huge bill.
 1. Technical support: Can only be opened by customers on the Developer, Business or Enterprise plans.
 
 AWS Support does not allow cases for code development, debugging custom software, or performing system administration tasks.
+
+## Other Support Services
+
+| Services | |
+|--- |--- |
+| AWS IQ | Find AWS certified independent freelancers and consultants |
+| AWS Managed Services | Pre-configured security and operations management |
+| AWS Professional Services | A team of AWS exports |
+| AWS Activate | Support and exclusive offers for startups |
 
 ---
 
