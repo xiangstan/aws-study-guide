@@ -21,6 +21,7 @@ CLF-C02 is the exam code for the AWS Certified Cloud Practitioner exam, which is
 1. [Development, Messaging, and Deployment Technology and Service](Development-Messaging-Deployment.md)
 1. [Migration and Transfer Technology and Services](Migration.md)
 1. [Artificial Intelligence, Machine Learning, and Analytics Technology and Services](AI.md)
+1. [Auditing, Monitoring, Logging, and Additional Technology and Services](Auditing-Monitoring-Logging.md)
 1. [Security, Compliance, and Governance](Security-Compliance-Governance.md)
 1. [Pricing, Billing, and Support](Pricing-Billing-Support.md)
 
