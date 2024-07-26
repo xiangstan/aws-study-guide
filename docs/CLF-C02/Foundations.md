@@ -58,70 +58,80 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 
 ### Perspectives and Foundational Capabilities
 
-| Security | |
-|--- |--- |
-| Security Governance | Develop and communicate security roles, responsibilities, policies, processes, and procedures |
-| Security Assurance | Monitor, evaluate, manage, and improve the effectiveness of your security and privacy programs |
-| Application Security | Detect and address security vulnerabilities during the software development process |
-| Infrastructure Protection | Validate that systems and services within your workload are protected |
-| Data Protection | Maintain visibility and control over data and how it is accessed and used in your organization |
-| Identity and Access Management | Manage identities and permissions at scale |
-| Vulnerability Management | Continuously identify, classify, remediate, and mitigate security vulnerabilities |
-| Incident Response | Reduce potential harm by effectively responding to security incidents |
-| Threat Detection | Understand and identify potential security misconfigurations, threats, or unexpected behaviors |
+#### Security
 
-| Business | |
+| Perspective | Description |
 |--- |--- |
-| Strategy Management | Leverage cloud to accelerate your business outcomes |
-| Portfolio Management | Prioritize delivery of high-value cloud products and initiatives |
-| Innovation Management | Develop new processes, products, and experiences and improve existing ones |
-| Product Management | Manage data and cloud-enabled offerings as products |
-| Data Monetization | Leverage data to obtain measurable business benefit |
-| Data Science | Leverage advanced analytics and machine learning to solve complex business problems |
-| Business Insights | Gain real-time insights and answer questions about your business |
-| Strategic Partnership | Build or grow your business through a strategic partnership with your cloud provider |
+| **Security Governance** | Develop and communicate security roles, responsibilities, policies, processes, and procedures |
+| **Security Assurance** | Monitor, evaluate, manage, and improve the effectiveness of your security and privacy programs |
+| **Application Security** | Detect and address security vulnerabilities during the software development process |
+| **Infrastructure Protection** | Validate that systems and services within your workload are protected |
+| **Data Protection** | Maintain visibility and control over data and how it is accessed and used in your organization |
+| **Identity and Access Management** | Manage identities and permissions at scale |
+| **Vulnerability Management** | Continuously identify, classify, remediate, and mitigate security vulnerabilities |
+| **Incident Response** | Reduce potential harm by effectively responding to security incidents |
+| **Threat Detection** | Understand and identify potential security misconfigurations, threats, or unexpected behaviors |
 
-| Platform | |
-|--- |--- |
-| Platform Architecture | Establish guidelines, principles, patterns, and guardrails for your cloud environment |
-| Data Architecture | Design and evolve a fit-for-purpose data and analytics architecture |
-| CI/CD | Rapidly evolve and improve applications and services |
-| Modern App Development | Build well-architected cloud-native applications |
-| Provisioning & Orchestration | Create, manage, and distribute catalogs of approved cloud products to end users |
-| Data Engineering | Automate and orchestrate data flows across your organization |
-| Platform Engineering | Build a compliant cloud environment with enhanced security features, and packaged, reusable products |
+#### Business
 
-| Operations | |
+| Perspective | Description |
 |--- |--- |
-| Event Mgmt (AIOps) | Detect events, assess their potential impact, and determine the appropriate control action |
-| Incident and Problem Mgmt | Quickly restore service operations and minimize adverse business impact |
-| Change and Release Mgmt | Introduce and modify workloads while minimizing the risk to production environments |
-| Performance and Capacity Mgmt | Monitor workload performance and ensure that capacity meets current and future demands |
-| Configuration Mgmt | Maintain an accurate and complete record of all your cloud workloads, their relationships, and configuration changes over time |
-| Patch Mgmt | Systematically distribute and apply software updates |
-| Availability and Continuity Mgmt | Ensure availability of business-critical information, applications, and services |
-| Application Mgmt | Investigate and remediate application issues in a single pane of glass |
-| Observability | Gain actionable insights from your infrastructure and application data |
+| **Strategy Management** | Leverage cloud to accelerate your business outcomes |
+| **Portfolio Management** | Prioritize delivery of high-value cloud products and initiatives |
+| **Innovation Management** | Develop new processes, products, and experiences and improve existing ones |
+| **Product Management** | Manage data and cloud-enabled offerings as products |
+| **Data Monetization** | Leverage data to obtain measurable business benefit |
+| **Data Science** | Leverage advanced analytics and machine learning to solve complex business problems |
+| **Business Insights** | Gain real-time insights and answer questions about your business |
+| **Strategic Partnership** | Build or grow your business through a strategic partnership with your cloud provider |
+
+#### Platform
+
+| Perspective | Description |
+|--- |--- |
+| **Platform Architecture** | Establish guidelines, principles, patterns, and guardrails for your cloud environment |
+| **Data Architecture** | Design and evolve a fit-for-purpose data and analytics architecture |
+| **CI/CD** | Rapidly evolve and improve applications and services |
+| **Modern App Development** | Build well-architected cloud-native applications |
+| **Provisioning & Orchestration** | Create, manage, and distribute catalogs of approved cloud products to end users |
+| **Data Engineering** | Automate and orchestrate data flows across your organization |
+| **Platform Engineering** | Build a compliant cloud environment with enhanced security features, and packaged, reusable products |
+
+#### Operations
+
+| Perspective | Description |
+|--- |--- |
+| **Event Mgmt (AIOps)** | Detect events, assess their potential impact, and determine the appropriate control action |
+| **Incident and Problem Mgmt** | Quickly restore service operations and minimize adverse business impact |
+| **Change and Release Mgmt** | Introduce and modify workloads while minimizing the risk to production environments |
+| **Performance and Capacity Mgmt** | Monitor workload performance and ensure that capacity meets current and future demands |
+| **Configuration Mgmt** | Maintain an accurate and complete record of all your cloud workloads, their relationships, and configuration changes over time |
+| **Patch Mgmt** | Systematically distribute and apply software updates |
+| **Availability and Continuity Mgmt** | Ensure availability of business-critical information, applications, and services |
+| **Application Mgmt** | Investigate and remediate application issues in a single pane of glass |
+| **Observability** | Gain actionable insights from your infrastructure and application data |
 
 | Governance | |
 |--- |--- |
-| Benefits Mgmt | Ensure that the business benefits associated with your cloud investments are realized and sustained |
-| Program and Project Mgmt | Deliver interdependent cloud initiatives in a flexible and coordinated manner |
-| Risk Mgmt | Leverage cloud to lower your risk profile |
-| Cloud Financial Mgmt | Plan, measure, and optimize your cloud spend |
-| Application Portfolio Mgmt | Manage and optimize your application portfolio in support of your business strategy |
-| Data Governance | Exercise authority and control over your data to meet stakeholder expectations |
-| Data curation | Collect, organize, access, and enrich metadata and use it to organize an inventory of data products in a Data Catalog |
+| **Benefits Mgmt** | Ensure that the business benefits associated with your cloud investments are realized and sustained |
+| **Program and Project Mgmt** | Deliver interdependent cloud initiatives in a flexible and coordinated manner |
+| **Risk Mgmt** | Leverage cloud to lower your risk profile |
+| **Cloud Financial Mgmt** | Plan, measure, and optimize your cloud spend |
+| **Application Portfolio Mgmt** | Manage and optimize your application portfolio in support of your business strategy |
+| **Data Governance** | Exercise authority and control over your data to meet stakeholder expectations |
+| **Data curation** | Collect, organize, access, and enrich metadata and use it to organize an inventory of data products in a Data Catalog |
 
-| People | |
+#### People
+
+| Perspective | Description |
 |--- |--- |
-| Transformational Leadership | Strengthen your leadership capability and mobilize leaders to drive transformational change and enable outcome-focused, cross-functional decision making |
-| Workforce Transformation | Enable talent and modernize roles to attract, develop, and retain a digitally fluent high-performing workforce |
-| Organization Design | Assess organization design for alignment with the new cloud ways of working |
-| Organizational Alignment | Establish ongoing partnership between organizational structures, business operations, processes, talent, and culture |
-| Cloud Fluency | Build digital acumen to confidently and effectively leverage cloud to accelerate business outcomes |
-| Change Acceleration | Accelerate adoption to the new ways of working by applying a programmatic change acceleration framework |
-| Culture Evolution | Evaluate, incrementally evolve, and codify organizational culture with digital transformation aspirations |
+| **Transformational Leadership** | Strengthen your leadership capability and mobilize leaders to drive transformational change and enable outcome-focused, cross-functional decision making |
+| **Workforce Transformation** | Enable talent and modernize roles to attract, develop, and retain a digitally fluent high-performing workforce |
+| **Organization Design** | Assess organization design for alignment with the new cloud ways of working |
+| **Organizational Alignment** | Establish ongoing partnership between organizational structures, business operations, processes, talent, and culture |
+| **Cloud Fluency** | Build digital acumen to confidently and effectively leverage cloud to accelerate business outcomes |
+| **Change Acceleration** | Accelerate adoption to the new ways of working by applying a programmatic change acceleration framework |
+| **Culture Evolution** | Evaluate, incrementally evolve, and codify organizational culture with digital transformation aspirations |
 
 ### Cloud Transformation Domains
 
