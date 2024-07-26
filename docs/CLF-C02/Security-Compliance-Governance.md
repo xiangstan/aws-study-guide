@@ -153,8 +153,8 @@ Standing in front of CloudFront and Application load balancer.
 A managed Distributed Denial of Services (DDoS) protection service. 
 
 1. Always-on detection 
-1. Shield Standard is free 
-1. Shield Advanced is a paid services. It provides expanded protection, and access to a ***24/7 DDoS response team***.
+1. **Shield** Standard is free 
+1. **Shield Advanced** is a paid services. It provides expanded protection, and access to a ***24/7 DDoS response team***.
 
 Works with CloudFront, Route 53, Elastic Load Balancing , and AWS Global Accelerator.
 
