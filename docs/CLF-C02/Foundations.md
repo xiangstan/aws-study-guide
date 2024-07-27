@@ -56,9 +56,16 @@ Run applications on AWS infrastructure closer to your end users and workloads. L
 
 Cloud adoption framework focuses on using AWS to digitally transform, and accelerate business outcomes.
 
+### Benefit
+
+1. **Reduce business risk**: Lower your risk profile through improved reliability, increased performance, and enhanced security.
+2. **Improve environmental, social, and governance performance**: Leverage insights to improve sustainability and corporate transparency.
+3. **Grow revenue**: Create new products and services, reach new customers, and enter new market segments.
+4. **Increase operational efficiency**: Reduce operating costs, increase productivity, and improve employee and customer experience.
+
 ### Perspectives and Foundational Capabilities
 
-#### Security
+### Security
 
 | Perspective | Description |
 |--- |--- |
@@ -72,7 +79,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | **Incident Response** | Reduce potential harm by effectively responding to security incidents |
 | **Threat Detection** | Understand and identify potential security misconfigurations, threats, or unexpected behaviors |
 
-#### Business
+### Business
 
 | Perspective | Description |
 |--- |--- |
@@ -85,7 +92,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | **Business Insights** | Gain real-time insights and answer questions about your business |
 | **Strategic Partnership** | Build or grow your business through a strategic partnership with your cloud provider |
 
-#### Platform
+### Platform
 
 | Perspective | Description |
 |--- |--- |
@@ -97,7 +104,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | **Data Engineering** | Automate and orchestrate data flows across your organization |
 | **Platform Engineering** | Build a compliant cloud environment with enhanced security features, and packaged, reusable products |
 
-#### Operations
+### Operations
 
 | Perspective | Description |
 |--- |--- |
@@ -111,7 +118,9 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | **Application Mgmt** | Investigate and remediate application issues in a single pane of glass |
 | **Observability** | Gain actionable insights from your infrastructure and application data |
 
-| Governance | |
+### Governance
+
+| Perspective | Description |
 |--- |--- |
 | **Benefits Mgmt** | Ensure that the business benefits associated with your cloud investments are realized and sustained |
 | **Program and Project Mgmt** | Deliver interdependent cloud initiatives in a flexible and coordinated manner |
@@ -121,7 +130,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | **Data Governance** | Exercise authority and control over your data to meet stakeholder expectations |
 | **Data curation** | Collect, organize, access, and enrich metadata and use it to organize an inventory of data products in a Data Catalog |
 
-#### People
+### People
 
 | Perspective | Description |
 |--- |--- |
@@ -133,7 +142,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | **Change Acceleration** | Accelerate adoption to the new ways of working by applying a programmatic change acceleration framework |
 | **Culture Evolution** | Evaluate, incrementally evolve, and codify organizational culture with digital transformation aspirations |
 
-### Cloud Transformation Domains
+## Cloud Transformation Domains
 
 | Domains | |
 |-- |-- |
@@ -142,7 +151,7 @@ Cloud adoption framework focuses on using AWS to digitally transform, and accele
 | Organization | Reimagine orchestration |
 | Product | Reimagine your business model |
 
-### Cloud Transformation Journey
+## Cloud Transformation Journey
 
 | Phases | |
 |-- |-- |
