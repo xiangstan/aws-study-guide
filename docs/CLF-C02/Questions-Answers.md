@@ -65,3 +65,10 @@
 - [ ] Elastic Kubernetes Service
 - [ ] Elastic Container Register
 
+### 9. Your leader has requested detailed information about actual AWS costs of running your application. Which AWS service can help you with this?
+
+- [ ] Pricing Calculator
+- [x] Cost and Usage Reports<br>
+      *Cost and Usage Reports provide detailed information about your actual AWS costs, but they do not provide cost estimates*
+- [ ] Budgets
+- [ ] Cost Explorer
